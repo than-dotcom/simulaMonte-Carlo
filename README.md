@@ -1,6 +1,6 @@
 # Análise Quantitativa: Simulação de Monte Carlo (GBM)
 
-Projeto em **Python** desenvolvido para modelar a distribuição de probabilidades e o gerenciamento de risco de ativos financeiros (PETR4.SA e RACE.MI).
+Projeto em **Python** desenvolvido para modelar a distribuição de probabilidades e o gerenciamento de risco de ativos financeiros (PETR4.SA)
 
 ## Tecnologias
 - **yfinance**: Extração de dados históricos.
