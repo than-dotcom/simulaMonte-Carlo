@@ -14,3 +14,5 @@ Projeto em **Python** desenvolvido para modelar a distribuição de probabilidad
 
 ---
 *Estudante de Economia - Università degli Studi di Torino (UniTo)*
+
+<img width="1529" height="1057" alt="image" src="https://github.com/user-attachments/assets/7875732f-cff4-4035-b789-0e8abf224337" />
